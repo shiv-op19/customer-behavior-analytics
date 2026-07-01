@@ -198,4 +198,4 @@ This report enables customer success teams to:
 
 ## Conclusion
 
-This project demonstrates an end-to-end machine learning workflow for customer churn prediction in a SaaS environment. By combining data preprocessing, exploratory data analysis, NLP-based feature extraction, predictive modeling, and business intelligence, the solution enables organizations to identify high-risk customers and take proactive actions to improve customer retention and long-term business growth.
+This project demonstrates an end-to-end machine learning workflow for customer churn prediction in a SaaS environment. By combining data preprocessing, exploratory data analysis, predictive modeling, and business intelligence, the solution enables organizations to identify high-risk customers and take proactive actions to improve customer retention and long-term business growth.
